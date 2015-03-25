@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUPERNOVA</Machine>
+    <WindowsUser>Codotronix</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>de683ebe-4dc7-4e22-a113-d41c5a3c44dc</PackageIdentityName>
+    <IntermediateOutputPath>I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F5E712AA5C393E0F7EE83C58D346EC4684FF5FF906E2B7D430C4A568A02EB415</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>de683ebe-4dc7-4e22-a113-d41c5a3c44dc_1.0.0.0_neutral__qabx4nybn07ty</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>de683ebe-4dc7-4e22-a113-d41c5a3c44dc_qabx4nybn07ty!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>de683ebe-4dc7-4e22-a113-d41c5a3c44dc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Codotronix</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-21T20:03:36.941</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\css\style.css">
+      <PackagePath>css\style.css</PackagePath>
+      <Modified>2015-03-21T20:04:13.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-03-24T18:26:24.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\1.jpg">
+      <PackagePath>images\1.jpg</PackagePath>
+      <Modified>2015-02-28T19:34:09.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\2.jpg">
+      <PackagePath>images\2.jpg</PackagePath>
+      <Modified>2015-02-28T19:34:09.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\3.jpg">
+      <PackagePath>images\3.jpg</PackagePath>
+      <Modified>2015-02-28T19:34:09.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\4.jpg">
+      <PackagePath>images\4.jpg</PackagePath>
+      <Modified>2015-02-28T19:34:09.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\6.jpg">
+      <PackagePath>images\6.jpg</PackagePath>
+      <Modified>2015-02-28T19:34:09.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\8.jpg">
+      <PackagePath>images\8.jpg</PackagePath>
+      <Modified>2015-02-28T19:34:09.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\9.jpg">
+      <PackagePath>images\9.jpg</PackagePath>
+      <Modified>2015-02-28T19:34:09.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\puzzleBg2.jpg">
+      <PackagePath>images\puzzleBg2.jpg</PackagePath>
+      <Modified>2015-03-21T16:37:33.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\puzzleBg.jpg">
+      <PackagePath>images\puzzleBg.jpg</PackagePath>
+      <Modified>2015-03-21T16:38:20.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T01:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-03-12T16:19:43.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Shared\js\jquery-2.1.3.min.js">
+      <PackagePath>js\jquery-2.1.3.min.js</PackagePath>
+      <Modified>2015-03-12T15:53:54.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Shared\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+      <Modified>2015-03-24T18:26:17.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="I:\Code\Visual Studion Codes\JavaScript\Mini-Puzzle-App\Mini-Puzzle-App\Mini_Puzzle_App.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-21T20:03:35.604</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
